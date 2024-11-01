@@ -4,7 +4,7 @@ function login (){
 
   let userName= 'sivakanth'
 
-  let email = "sivakanth74@gamil.com"
+  let email = "nani74@gamil.com"
 
   let password= 1236554789
 
